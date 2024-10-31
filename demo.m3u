@@ -299,5 +299,3 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.fanmingming.com/tv/安徽经济生活.png" group-title="地方频道",安徽经济生活
-http://60.168.231.252:2000/rtp/238.1.79.44:4464
