@@ -157,6 +157,8 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000104/index.m3u8
 #EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="NewTV频道",动作电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
+#EXTINF:-1 tvg-name="newtv热播精选" tvg-logo="https://live.fanmingming.com/tv/NEWTV热播精选.png" group-title="NewTV频道",热播精选
+http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000115
 #EXTINF:-1 tvg-name="newtv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="NewTV频道",古装剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8
 #EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="NewTV频道",惊悚悬疑
@@ -168,7 +170,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000098/index.m3u8
 #EXTINF:-1 tvg-name="newtv怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NEWTV怡伴健康.png" group-title="NewTV频道",怡伴健康
 http://[2409:8087:74d9:21::6]/270000001128/9900000103/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://[2409:8087:74d9:21::6]/270000001128/9900000528/index.m3u8
+http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000515
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字频道",劲爆体育
@@ -236,11 +238,11 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="NewTV频道",黑莓电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
-http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000074
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000405
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道",睛彩青少
-http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 http://[2409:8087:1a0a:df::402e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="NewTV频道",超级体育
