@@ -35,12 +35,6 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
@@ -112,7 +106,7 @@ http://[2409:8087:74f0:22::5]:6410/270000001128/9900000023/index.m3u8?channel-id
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000042
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
@@ -157,8 +151,6 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000104/index.m3u8
 #EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="NewTV频道",动作电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
-#EXTINF:-1 tvg-name="newtv热播精选" tvg-logo="https://live.fanmingming.com/tv/NEWTV热播精选.png" group-title="NewTV频道",热播精选
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000115
 #EXTINF:-1 tvg-name="newtv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="NewTV频道",古装剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8
 #EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="NewTV频道",惊悚悬疑
@@ -190,7 +182,7 @@ http://[2409:8087:74f0:22::5]:6410/270000001128/9900000040/index.m3u8?channel-id
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000039
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字频道",茶友频道
@@ -211,8 +203,6 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="数字频道",四海钓鱼
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="数字频道",财富天下
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="数字频道",环球旅游
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000643/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="数字频道",车迷频道
@@ -222,7 +212,7 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字频道",动漫秀场
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000074/index.m3u8?IASHttpSessionId=
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="数字频道",优优宝贝
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000641/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="NewTV频道",哒啵赛事
