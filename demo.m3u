@@ -335,8 +335,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="港澳台频道",龙华经典
-https://litv.zapi.us.kg/?id=litv-longturn21
+#EXTINF:-1 tvg-name="采昌影剧" tvg-logo="https://live.fanmingming.com/tv/采昌影剧.png" group-title="港澳台频道",采昌影剧
+https://litv.zapi.us.kg/?id=4gtv-4gtv049
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="港澳台频道",靖天电影
 https://litv.zapi.us.kg/?id=4gtv-4gtv061
 #EXTINF:-1 tvg-name="靖天综合" tvg-logo="https://live.fanmingming.com/tv/靖天综合.png" group-title="港澳台频道",靖天综合
@@ -347,6 +347,10 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv044
 https://litv.zapi.us.kg/?id=4gtv-4gtv047
 #EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://live.fanmingming.com/tv/爱放动漫.png" group-title="港澳台频道",爱放动漫
 https://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://live.fanmingming.com/tv/民视第一.png" group-title="港澳台频道",民视第一
+https://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="港澳台频道",东森新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台频道",TVBS新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://live.fanmingming.com/tv/TVBS精采.png" group-title="港澳台频道",TVBS精采
