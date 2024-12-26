@@ -271,13 +271,3 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 tvg-name="日本全天新闻" tvg-logo="https://live.fanmingming.cn/tv/日本全天新闻.png" group-title="港澳台频道",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://live.fanmingming.cn/tv/蜡笔小新.png" group-title="虎牙直播",蜡笔小新
-https://025365.xyz:8082/huya.php?id=11352970
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.cn/tv/中华小当家.png" group-title="虎牙直播",中华小当家
-https://025365.xyz:8082/huya.php?id=11342413
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://live.fanmingming.cn/tv/猫和老鼠.png" group-title="虎牙直播",猫和老鼠
-https://025365.xyz:8082/huya.php?id=11352879
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://live.fanmingming.cn/tv/哆啦A梦.png" group-title="虎牙直播",哆啦A梦
-https://025365.xyz:8082/huya.php?id=11601963
-#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://live.fanmingming.cn/tv/爱情公寓.png" group-title="虎牙直播",爱情公寓
-https://025365.xyz:8082/huya.php?id=11336726
