@@ -155,10 +155,6 @@ http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000105
 #EXTINF:-1 tvg-name="淮南民生" tvg-logo="https://live.fanmingming.cn/tv/淮南民生.png" group-title="安徽频道",淮南民生
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000103
-#EXTINF:-1 tvg-name="淮北新闻综合" tvg-logo="https://live.fanmingming.cn/tv/淮北新闻综合.png" group-title="安徽频道",淮北新闻综合
-http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000119
-#EXTINF:-1 tvg-name="淮北经济生活" tvg-logo="https://live.fanmingming.cn/tv/淮北经济生活.png" group-title="安徽频道",淮北经济生活
-http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000121
 #EXTINF:-1 tvg-name="亳州农村频道" tvg-logo="https://live.fanmingming.cn/tv/亳州农村频道.png" group-title="安徽频道",亳州农村频道
 http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
 #EXTINF:-1 tvg-name="亳州综合频道" tvg-logo="https://live.fanmingming.cn/tv/亳州综合频道.png" group-title="安徽频道",亳州综合频道
@@ -173,8 +169,6 @@ http://10.255.126.3:8006/AHBKLIVE/11111120211018000000000000000015
 http://10.255.126.3:8006/AHBKLIVE/11111120211027000000000000000001
 #EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/宿州新闻综合.png" group-title="安徽频道",宿州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000097
-#EXTINF:-1 tvg-name="宿州经济生活" tvg-logo="https://live.fanmingming.cn/tv/宿州经济生活.png" group-title="安徽频道",宿州经济生活
-http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000095
 #EXTINF:-1 tvg-name="宿州科教频道" tvg-logo="https://live.fanmingming.cn/tv/宿州科教频道.png" group-title="安徽频道",宿州科教频道
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000099
 #EXTINF:-1 tvg-name="安庆新闻综合" tvg-logo="https://live.fanmingming.cn/tv/安庆新闻综合.png" group-title="安徽频道",安庆新闻综合
