@@ -32,7 +32,7 @@ https://migu.bxtv.587788.xyz/migu/624878440.m3u8?migutoken=f53fb354239e519a3cc2d
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 https://migu.bxtv.587788.xyz/migu/673168223.m3u8?migutoken=fe5c8a48b55ae50517a033d486fcffcb1ec1f372d879d03e79f21ffe9fdcd0c37a7a4386305f52fcad4c22fa299babed248e0a7f2d2735987e6eb64064a23436cfdf16f888f1facbca7ceda7dd
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://migu.bxtv.587788.xyz/migu/673168256.m3u8?migutoken=9c57bf003f81ac1dd762ea137951f4436b761c7a5af1219e1b66c05886cede7bf63d6176a53bf9c436223548cf7c48a5e19edd21468586f900ec39cc6f5ea7c067dcf0203ddecb2528721f28d7
 #EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV文化精品.png" group-title="央视频道",央视文化精品
@@ -66,7 +66,7 @@ http://jf.jxx2023.work:40446/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://jf.jxx2023.work:40446/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://jf.jxx2023.work:40446/tsfile/live/0107_1.m3u8
+https://migu.bxtv.587788.xyz/migu/651632648.m3u8?migutoken=79728c1a3fa6e1250153434d6ff37ec06af391c935f5bc31c9e51755db65972db25ff7682415f6759654f3c6d7d6deb5b20890cdca7abdd506ca35660915bfb6427de09b40f45c90649c07ac3f
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://jf.jxx2023.work:40446/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -76,23 +76,23 @@ http://jf.jxx2023.work:40446/tsfile/live/1078_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://jf.jxx2023.work:40446/tsfile/live/0126_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://jf.jxx2023.work:40446/tsfile/live/1005_1.m3u8
+https://migu.bxtv.587788.xyz/migu/608831231.m3u8?migutoken=0e4e41d4ba82c16b9ab94f2b49410a7e7619e7a0e4d08e6a0abdab20794fe187946df3029a78de1dfd5162dbbcbd2b3ef174d722ceb3c42134d5289f1dc79c02cf767524ba24a0042d15549313
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://jf.jxx2023.work:40446/tsfile/live/0113_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://jf.jxx2023.work:40446/tsfile/live/0127_1.m3u8
+https://migu.bxtv.587788.xyz/migu/623899368.m3u8?migutoken=f73938487a1c125cf668abbf5740367a05290032866abc29a71e4217c7bcf027dde4600adf86ff2d3ef3ea637931723e89016f0b7c6c5905d24ef594ffde851df8b902a8b36b6a9778206debf8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://jf.jxx2023.work:40446/tsfile/live/0138_1.m3u8
+https://migu.bxtv.587788.xyz/migu/783847495.m3u8?migutoken=572ac301e125c4f775b9426feeea3fe29df15c3c85bd8055cb8266ecd0e6211896573601d7dde78f39b45cb8882eddaed1cdec802a231b3c12b7785fc00661707d6add6a57d3949ab690474a9c
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://jf.jxx2023.work:40446/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://jf.jxx2023.work:40446/tsfile/live/0139_1.m3u8
+https://migu.bxtv.587788.xyz/migu/790187291.m3u8?migutoken=31a2b5e3b352d7d606120377921ae0a792eca01ca2280a486f60e44dfe1a8416e589113212866af073f92c52aa5c9680b120c81303ff13b06de8ac35f6febc8e99382004b1aa8f48eb73e42261
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://jf.jxx2023.work:40446/tsfile/live/1068_1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://jf.jxx2023.work:40446/tsfile/live/1006_1.m3u8
+https://migu.bxtv.587788.xyz/migu/947472502.m3u8?migutoken=7f05ca6b78461cf2a2cf1923f394d2f3824d5b3db3b4e5f04c3fa3aa621167a4419749ff6320e400fe9b9130dbbc4a00b2ee7f8059fb573141bc4031c2ad126b0f685f1f44664d0507a16342c0
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://jf.jxx2023.work:40446/tsfile/live/1018_1.m3u8
+https://migu.bxtv.587788.xyz/migu/947472496.m3u8?migutoken=925052ad8b89d8918cacfb43e398bfd31ccf8813d97074f51e336b06453036ae0aed9989ab47e6d940e6aab12731af8c6491f18780eb61405b5a2106fc47d1d763121fd7df1c1c5582fe908017
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://jf.jxx2023.work:40446/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
@@ -110,9 +110,9 @@ http://jf.jxx2023.work:40446/tsfile/live/0109_1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://jf.jxx2023.work:40446/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://jf.jxx2023.work:40446/tsfile/live/0136_1.m3u8
+https://migu.bxtv.587788.xyz/migu/738910838.m3u8?migutoken=a2fd39b732173234d500954bcc24d53a0320c30bd592da43ac385ad1b68a3e884184f88acf92e349538ca58ddd50c2422e500a117f2cfc3c93e84a174835b8bb6e1eaadaf83d54f3d8d58580ba
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://jf.jxx2023.work:40446/tsfile/live/0116_1.m3u8
+https://migu.bxtv.587788.xyz/migu/947472500.m3u8?migutoken=307c8fde8484cc6fbadf507a40fee3d3975493e781299591159f19102afd349eb78d7541192cbb0146fa4cc5449562e11d90889794b7aff45adebdb624767e6ad228083dfe906da2350f5cfbc0
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://jf.jxx2023.work:40446/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
@@ -120,7 +120,7 @@ http://jf.jxx2023.work:40446/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://jf.jxx2023.work:40446/tsfile/live/0140_1.m3u8
+https://migu.bxtv.587788.xyz/migu/947472506.m3u8?migutoken=6ab052281dad35b7d70be3823b8f34e4276d33ea93df56a896af16cf7cc5c9639cd8252c7b57fb03fe1b08e70bb3a9457b014ec8baadd4d2abdfc6add919db00444864d2dcd0b31d65d03dbf28
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226460/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -136,7 +136,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266006/1.m3u8?chann
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
 http://jf.jxx2023.work:40446/tsfile/live/0134_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+https://migu.bxtv.587788.xyz/migu/608917627.m3u8?migutoken=08b01dd57a9f7801a5afd4d26737303ec27325fb8cfaf922425c4471921e19bdd001b6f1e30412215b5f9cf3a61ba475e115cc1cf422f9d2b238edb39d705870f219a5f6d4abfffdfddf6c2f7e
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.fanmingming.cn/tv/安徽影视.png" group-title="安徽频道",安徽影视
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.fanmingming.cn/tv/安徽经济生活.png" group-title="安徽频道",安徽经济生活
