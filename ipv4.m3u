@@ -192,11 +192,11 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电影.png" group-title="影视频道",超级电影
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://z.b.bkpcp.top/m.php?id=dzdy
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://z.b.bkpcp.top/m.php?id=jtyy
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
-http://115.60.241.249:2000/rtp/225.1.4.207:1260
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/test2_4000 .m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000150
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
