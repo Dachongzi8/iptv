@@ -188,13 +188,13 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电影.png" group-title="影视频道",超级电影
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 #EXTINF:-1 tvg-name="爱电影" tvg-logo="https://live.fanmingming.cn/tv/爱电影.png" group-title="影视频道",爱电影
-http://iptv.beihao.xyz:5017/udp/239.81.0.65:4056
+https://iptv.beihao.xyz:16666/udp/239.81.0.65:4056
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.cn/tv/经典电影.png" group-title="影视频道",经典电影
-http://iptv.beihao.xyz:5017/udp/239.81.0.84:4056
+https://iptv.beihao.xyz:16666/udp/239.81.0.84:4056
 #EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://live.fanmingming.cn/tv/爱大剧.png" group-title="影视频道",爱大剧
-http://iptv.beihao.xyz:5017/udp/239.81.0.67:4056
+https://iptv.beihao.xyz:16666/udp/239.81.0.67:4056
 #EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="https://live.fanmingming.cn/tv/IPTV谍战剧场.png" group-title="影视频道",IPTV谍战剧场
-http://iptv.beihao.xyz:5017/udp/239.81.0.15:4056
+https://iptv.beihao.xyz:16666/udp/239.81.0.15:4056
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
