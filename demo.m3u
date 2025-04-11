@@ -66,21 +66,13 @@ http://iptv.huuc.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="卫视频道",山东教育卫视
 http://iptv.huuc.edu.cn/hls/sdetv.m3u8
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.fanmingming.cn/tv/安徽影视.png" group-title="安徽频道",安徽影视
-http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.fanmingming.cn/tv/安徽经济生活.png" group-title="安徽频道",安徽经济生活
-http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.cn/tv/安徽综艺体育.png" group-title="安徽频道",安徽综艺体育
-http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000011
-#EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://live.fanmingming.cn/tv/安徽国际.png" group-title="安徽频道",安徽国际
-http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000015
-#EXTINF:-1 tvg-name="安徽农业·科教" tvg-logo="https://live.fanmingming.cn/tv/安徽农业科教.png" group-title="安徽频道",安徽农业·科教
-http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000013
-#EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.fanmingming.cn/tv/安徽公共.png" group-title="安徽频道",安徽公共
-http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://live.fanmingming.cn/tv/淮南新闻综合.png" group-title="安徽频道",淮南新闻综合
-http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000105
-#EXTINF:-1 tvg-name="淮南民生" tvg-logo="https://live.fanmingming.cn/tv/淮南民生.png" group-title="安徽频道",淮南民生
-http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000103
+http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1 tvg-name="固镇新闻" tvg-logo="https://live.fanmingming.cn/tv/固镇新闻.png" group-title="安徽频道",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
