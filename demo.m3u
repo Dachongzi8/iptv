@@ -35,6 +35,20 @@ http://10.255.127.35:6060/gitv_live/G_CCTV-15-CQ/index.m3u8?Playtype=1&gMac=00&p
 http://10.255.127.35:6060/gitv_live/G_CCTV-16-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://10.255.127.35:6060/gitv_live/G_CCTV-17-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV央视4K
+http://10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
+http://10.255.127.35:6060/gitv_live/G_CCTV-NEWS/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://10.255.127.35:6060/gitv_live/G_CGTN-PYCCNN/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+http://10.255.127.35:6060/gitv_live/G_CGTN-FRANCAIS/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+http://10.255.127.35:6060/gitv_live/G_CGTN-ESPANOL/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+http://10.255.127.35:6060/gitv_live/G_CGTN_A/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://10.255.127.35:6060/gitv_live/G_ANHUI-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -70,7 +84,7 @@ http://10.255.127.35:6060/gitv_live/G_HAINAN-HQ/index.m3u8?Playtype=1&gMac=00&pa
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://10.255.127.35:6060/gitv_live/G_HUBEI-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://[2409:8087:74d8:21::9]:80/270000001128/9900000053/index.m3u8
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000099
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://10.255.127.35:6060/gitv_live/G_DONGNAN-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -126,15 +140,25 @@ http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1 tvg-name="固镇新闻" tvg-logo="https://live.fanmingming.cn/tv/固镇新闻.png" group-title="安徽频道",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://iptv.huuc.edu.cn/hls/jykttv.m3u8
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://live.fanmingming.cn/tv/探索频道.png" group-title="数字频道",探索频道
-http://iptv.huuc.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://live.fanmingming.cn/tv/国家地理频道.png" group-title="数字频道",国家地理频道
-http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.cn/tv/上海纪实.png" group-title="数字频道",上海纪实
-http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+http://10.255.127.35:6060/gitv_live/G_JINYING/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="数字频道",优漫卡通
+http://10.255.127.35:6060/gitv_live/G_YOUMAN/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+http://10.255.127.35:6060/gitv_live/G_JIAJIA/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://10.255.127.35:6060/gitv_live/G_KAKU/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="数字频道",发现之旅
+http://10.255.127.35:6060/gitv_live/G_FAXIANZL/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.cn/tv/天元围棋.png" group-title="数字频道",天元围棋
+http://10.255.127.35:6060/gitv_live/G_TIANYUANWQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.cn/tv/早期教育.png" group-title="数字频道",早期教育
+http://10.255.127.35:6060/gitv_live/G_CETV-ZQJY-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://live.fanmingming.cn/tv/国学.png" group-title="数字频道",国学
+http://10.255.127.35:6060/gitv_live/G_GUOXUE/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="数字频道",女性时尚
+http://10.255.127.35:6060/gitv_live/G_NVXINGSS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="数字频道",老故事
+http://10.255.127.35:6060/gitv_live/G_LAOGUSHI/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="数字频道",北京新闻
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="数字频道",北京文艺
