@@ -35,6 +35,8 @@ http://10.255.127.35:6060/gitv_live/G_CCTV-15-CQ/index.m3u8?Playtype=1&gMac=00&p
 http://10.255.127.35:6060/gitv_live/G_CCTV-16-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://10.255.127.35:6060/gitv_live/G_CCTV-17-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="数字频道",女性时尚
+http://10.255.127.35:6060/gitv_live/G_NVXINGSS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV央视4K
 http://10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
@@ -155,16 +157,8 @@ http://10.255.127.35:6060/gitv_live/G_TIANYUANWQ/index.m3u8?Playtype=1&gMac=00&p
 http://10.255.127.35:6060/gitv_live/G_CETV-ZQJY-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://live.fanmingming.cn/tv/国学.png" group-title="数字频道",国学
 http://10.255.127.35:6060/gitv_live/G_GUOXUE/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="数字频道",女性时尚
-http://10.255.127.35:6060/gitv_live/G_NVXINGSS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="数字频道",老故事
 http://10.255.127.35:6060/gitv_live/G_LAOGUSHI/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="数字频道",北京新闻
-http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="数字频道",北京文艺
-http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="数字频道",北京影视
-http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="数字频道",北京纪实科教
 http://10.255.127.35:6060/gitv_live/G_BEIJINGJS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/中国教育1台.png" group-title="数字频道",中国教育1台
