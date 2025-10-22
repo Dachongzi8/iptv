@@ -183,5 +183,5 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhxg
-#EXTINF:-1 tvg-name="日本全天新闻" tvg-logo="https://live.fanmingming.cn/tv/日本全天新闻.png" group-title="港澳台频道",日本全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 tvg-name="日本 NHK World" tvg-logo="https://live.fanmingming.cn/tv/日本 NHK World.png" group-title="港澳台频道",日本 NHK World
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
