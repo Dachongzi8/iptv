@@ -35,7 +35,7 @@ http://10.255.127.35:6060/gitv_live/G_CCTV-15-CQ/index.m3u8?Playtype=1&gMac=00&p
 http://10.255.127.35:6060/gitv_live/G_CCTV-16-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://10.255.127.35:6060/gitv_live/G_CCTV-17-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="数字频道",女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视频道",女性时尚
 http://10.255.127.35:6060/gitv_live/G_NVXINGSS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV央视4K
 http://10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
