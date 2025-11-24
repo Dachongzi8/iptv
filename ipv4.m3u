@@ -184,11 +184,11 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
 #EXTINF:-1 tvg-name="固镇新闻" tvg-logo="https://live.fanmingming.cn/tv/固镇新闻.png" group-title="安徽频道",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://58.19.180.108:9981/stream/channelid/1782708396
+http://58.21.79.112:85/tsfile/live/1019_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://58.19.180.108:9981/stream/channelid/2141017443
+http://58.21.79.112:85/tsfile/live/1021_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
-http://58.19.180.108:9981/stream/channelid/473633391
+http://58.21.79.112:85/tsfile/live/1020_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="浙江频道",浙江国际
