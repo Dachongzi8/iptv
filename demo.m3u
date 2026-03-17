@@ -86,7 +86,7 @@ http://10.255.127.35:6060/gitv_live/G_HAINAN-HQ/index.m3u8?Playtype=1&gMac=00&pa
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://10.255.127.35:6060/gitv_live/G_HUBEI-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000099
+http://10.255.127.35:6060/gitv_live/SXWS/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://10.255.127.35:6060/gitv_live/G_DONGNAN-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
